@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726821255727",
+    "project_id": "video-player-9e255",
+    "storage_bucket": "video-player-9e255.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726821255727:android:e0efa6a9c7196ff7e624da",
+        "android_client_info": {
+          "package_name": "com.kotlinlearning.videoplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726821255727-gm65v0pkab2rtqfa1mq1vfraafssbf9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdxCUNJTsVX7-yLTvGAWC32tPY8DNgavI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726821255727-gm65v0pkab2rtqfa1mq1vfraafssbf9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
